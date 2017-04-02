@@ -1,0 +1,8 @@
+.pagination{
+	text-align: center;
+}
+.pagination li{
+	list-style: none;
+	float: left;
+	padding: 5px;
+}
